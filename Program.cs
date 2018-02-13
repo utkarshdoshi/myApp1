@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace myApp
+namespace myapp
 {
     class Program
     {
@@ -10,7 +10,8 @@ namespace myApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine(""+echoMe("utkarsh."));
+            Console.WriteLine(""+echoMe("Finally, I have dockerized this 'hello world'. "));
+            Console.WriteLine("Woohoo");
         }
     }
 }

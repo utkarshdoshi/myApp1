@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\development\\vscode\\myApp\\myApp.csproj",
-      "projectName": "myApp",
-      "projectPath": "C:\\development\\vscode\\myApp\\myApp.csproj",
+      "projectUniqueName": "C:\\development\\vscode\\myApp\\myapp.csproj",
+      "projectName": "myapp",
+      "projectPath": "C:\\development\\vscode\\myApp\\myapp.csproj",
       "packagesPath": "C:\\Users\\Utkarsh\\.nuget\\packages\\",
       "outputPath": "C:\\development\\vscode\\myApp\\obj\\",
       "projectStyle": "PackageReference",
