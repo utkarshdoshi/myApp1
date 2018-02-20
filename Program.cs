@@ -11,7 +11,7 @@ namespace myapp
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine(""+echoMe("Finally, I have dockerized this 'hello world'. "));
-            Console.WriteLine("Woohoo");
+            Console.WriteLine("Woohoo.... :)");
         }
     }
 }
