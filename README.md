@@ -13,7 +13,7 @@ $ docker run <tag-name>
 
 ### pushing image to dockerhub
 
-$ docker tag <image> <newName>/<repoName>:<tagName>
+$ docker tag <image-name> <newName>/<repoName>:<tagName>
   
 $ docker tag firstcontainer uttycoder/firstcontainer
 
