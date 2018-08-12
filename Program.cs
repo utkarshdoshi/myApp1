@@ -4,14 +4,10 @@ namespace myapp
 {
     class Program
     {
-        static string  echoMe(string str)
-        {return str;}
-
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine(""+echoMe("Finally, I have dockerized this 'hello world'. "));
-            Console.WriteLine("Woohoo");
+            Console.WriteLine("Finally, I have dockerized this 'hello world'. ");
+            Console.WriteLine("Woohoo.... see if this appears on screen or not.");
         }
     }
 }
